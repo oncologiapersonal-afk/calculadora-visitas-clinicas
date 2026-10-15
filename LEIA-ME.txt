@@ -1,0 +1,9 @@
+CALCULADORA DE VISITAS – PWA v1.0
+
+Para instalar no Android, publique todos os arquivos desta pasta em hospedagem HTTPS (ex.: GitHub Pages, Netlify). Abra o link no Chrome e use Menu > Adicionar à tela inicial / Instalar aplicativo.
+
+Para teste local, execute na pasta: python -m http.server 8000 e abra http://localhost:8000 no computador. Service worker exige HTTPS ou localhost.
+
+Módulos: Retornos, Imagens, Janelas. Os intervalos confirmados foram aproveitados dos scripts anteriores. Regras incompletas são bloqueadas ou sinalizadas. Não há integração com Google Calendar nem cadastro de participantes.
+
+ATENÇÃO: calculadora auxiliar, não validada para uso como sistema clínico. Revisar regras e janelas contra protocolo vigente, testar casos-limite e controlar versão antes do uso operacional.
